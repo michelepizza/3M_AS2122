@@ -1,6 +1,6 @@
 /**
  * @file giocoV1.c
- * @author your name (you@domain.com)
+ * @author Rifat Jaman (you@domain.com)
  * @brief la versioe beta del gioco matematico
  * @version 0.1
  * @date 2021-12-10
